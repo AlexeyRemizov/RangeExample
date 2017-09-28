@@ -1,0 +1,6 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RangeExample\RangeExample\obj\Debug\RangeExample.csprojResolveAssemblyReference.cache
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RangeExample\RangeExample\bin\Debug\RangeExample.exe.config
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RangeExample\RangeExample\bin\Debug\RangeExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RangeExample\RangeExample\bin\Debug\RangeExample.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RangeExample\RangeExample\obj\Debug\RangeExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RangeExample\RangeExample\obj\Debug\RangeExample.pdb
